@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Coburn;Larry;;;
+FN:Larry Coburn
+ORG:Lean Learning with Larry;
+EMAIL;type=INTERNET;type=WORK;type=pref:leanlarry@mac.com
+TEL;type=WORK;type=pref:1 (503) 432-3220
+X-ABUID:8517D475-0AF4-45D0-BA04-60B97EB3CA9D\:ABPerson
+END:VCARD
